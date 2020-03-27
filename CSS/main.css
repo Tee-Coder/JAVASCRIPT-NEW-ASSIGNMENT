@@ -1,0 +1,21 @@
+*
+{
+    padding: 0;
+    font-size: 18px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+body
+{
+    align-self: center;
+    padding-top: 250px;
+}
+
+#year
+{
+    margin: 10px;
+}
+
+
